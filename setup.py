@@ -8,7 +8,6 @@ setup(
     author_email='volker.diels-grabsch@m-click.aero',
     license='ISC',
     install_requires=[
-        'pyOpenSSL (>=0.14)',
         'requests (>=2.18.4)',
     ],
     classifiers=[
