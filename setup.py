@@ -7,9 +7,7 @@ setup(
     author='Volker Diels-Grabsch',
     author_email='volker.diels-grabsch@m-click.aero',
     license='ISC',
-    install_requires=[
-        'requests (>=2.18.4)',
-    ],
+    install_requires=[],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
